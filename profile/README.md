@@ -69,4 +69,6 @@ We are always keen to explore new collaborations and help organizations leverage
 
 ---
 
-*This GitHub organization page provides a high-level overview of KnetMiner Limited. Our primary software products and services are commercial and mostly closed-source. Specific open-source contributions or community tools, if any, will be hosted in dedicated repositories within this organization.*
+*This GitHub organization page provides a high-level overview of KnetMiner Limited. Our primary software products and services are commercial and mostly closed-source.*
+
+*Software developed by KnetMiner Limited, which constitutes developments, enhancements, improvements, modifications, or adaptations to the KnetMiner Product ("Improvements"), are "Licensee Improvements." KnetMiner Limited owns the Intellectual Property Rights in such Licensee Improvements under the terms of the KnetMiner license agreement.*
