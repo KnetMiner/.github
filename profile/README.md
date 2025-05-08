@@ -1,34 +1,72 @@
-![Untitled design (1)](https://github.com/KnetMiner/.github/assets/33641372/93385bb0-d0a3-4b19-8b8a-12387ae85b3c)
+<p align="center">
+  <h1 align="center">KnetMiner Limited</h1>
+</p>
 
-# Hi there 👋
+<p align="center">
+  <strong>Accelerating Biological Discovery with Intelligent Knowledge Networks.</strong>
+</p>
 
-Welcome to the **KnetMiner** GitHub organisation! 
+<p align="center">
+  <a href="https://knetminer.com/"><strong>Visit our Website</strong></a> |
+  <a href="https://knetminer.com/contact-us/"><strong>Contact Us</strong></a> |
+  <a href="https://knetminer.com/careers/"><strong>Careers</strong></a>
+</p>
 
-We're a team passionate about developing gene discovery software to facilitate the analysis and visualisation of intricate biological networks. Our ambition is to help researchers decipher large datasets and reveal the hidden connections within.
+---
 
-## 💡 What is KnetMiner all about?
+## About KnetMiner Limited
 
-KnetMiner is a software companion in the world of scientific discovery, unravelling the intricate realm of genetics and making it accessible and usable for everyone, from seasoned researchers to industry innovators. We bridge the gap between the considerable amount of available information and the meaningful connections that lead to discovery.
+KnetMiner Limited is an innovative software and services company born from world-leading research at Rothamsted Research. We specialize in transforming complex biological data into actionable insights through the power of integrated knowledge graphs and advanced AI.
 
-KnetMiner is a window into an interconnected world of genetic, 'omics, and phenotypic information. With multispecies knowledge graphs, KnetMiner enables users to leverage insights from a broad array of species, expanding the horizons of gene discovery research.
+**Our Mission:** To empower researchers and organizations in agriculture, life sciences, and beyond, by providing cutting-edge tools that accelerate discovery, foster innovation, and contribute to solving global challenges in food security, health, and sustainability.
 
-## ⛏️ How can you get involved?
+We bridge the gap between vast, disparate datasets and the critical connections that drive progress, making biological knowledge more accessible, understandable, and actionable.
 
-We warmly welcome contributions from the community! If you're interested in contributing, please reach out to us on hello@knetminer.com, or take a look at our [careers page](https://knetminer.com/careers/).
+## What We Do
 
-We believe that everyone has something valuable to contribute, whether it's code, documentation, or sharing ideas. Don't hesitate to get involved!
+KnetMiner Limited develops and delivers sophisticated solutions for:
 
-We also run Beta tests from time to time. Keep an eye on our [/Resources](https://knetminer.com/resources/) page and provide feedback by clicking the top banner within the resource.
+* **Gene Discovery & Trait Analysis:** Uncovering the genetic basis of complex traits in plants, pathogens, and other organisms.
+* **Knowledge Graph Construction:** Building custom, high-quality knowledge graphs from public and proprietary data sources.
+* **AI-Powered Data Integration & Mining:** Leveraging our unique GraphRAG (Graph Retrieval Augmented Generation) engine and other AI technologies to extract novel insights.
+* **Bespoke Software Solutions & Services:** Providing tailored platforms and expert consultancy to meet specific research and business needs.
 
-## 👩‍💻 Useful resources
+While many of our core product offerings are proprietary, we are committed to fostering scientific advancement and may share specific tools or resources with the community as appropriate.
 
-Here are some places where you can find more information about our work:
+## Our Technology
 
-- Our [tutorial](https://knetminer.com/tutorial/) is a fantastic place to start learning about how to use our software.
-- Some of our most recent publications can be found [here](https://knetminer.com/category/publications/), including our latest [KnetMiner publication](https://doi.org/10.1111/pbi.13583).
-- Read more about how others use KnetMiner [here](https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&from_uid=33750020).
+At the heart of KnetMiner is a powerful combination of:
 
-## 📩 Get in touch
+* **Knowledge Graphs:** We construct comprehensive, interconnected networks of biological information, integrating genomics, genetics, literature, and other 'omics data.
+* **Artificial Intelligence:** Our platforms feature AI-driven search, advanced analytics, and our proprietary GraphRAG engine, which combines the precision of knowledge graphs with the contextual understanding of Large Language Models (LLMs).
+* **Intuitive Visualization:** We provide user-friendly interfaces that allow researchers to visually explore complex data and uncover hidden patterns.
 
-- Reach us on hello@knetminer.com.
-- Contact us via our [website](https://knetminer.com/contact/).
+This unique technological blend enables faster, more intuitive, and deeper insights from complex biological data.
+
+## Who We Help
+
+Our solutions are designed for a diverse range of clients, including:
+
+* **Agricultural Technology (Agri-Tech) Companies:** Accelerating crop improvement programs, developing resilient and sustainable farming solutions.
+* **Pharmaceutical & Biotechnology Companies:** Enhancing drug discovery pipelines and understanding disease mechanisms.
+* **Academic & Research Institutions:** Providing powerful tools to advance fundamental biological research.
+* **Government & Non-Profit Organizations:** Supporting data-driven initiatives in public health and environmental science.
+
+## Discover More
+
+* **Website:** Explore our full range of solutions and learn more about our impact at [knetminer.com](https://knetminer.com/).
+* **Products & Services:** Try the KnetMiner App for free by visiting our [resources page](https://knetminer.com/resources).
+* **News & Insights:** Stay updated with our latest developments and thoughts on our [news page](https://knetminer.com/news/).
+* **Careers:** Passionate about driving innovation in bioinformatics and AI? Join our dynamic team! Check out our [careers page](https://knetminer.com/careers/).
+
+## Get in Touch
+
+We are always keen to explore new collaborations and help organizations leverage the power of their data.
+
+* **General & Business Inquiries:** [hello@knetminer.com](mailto:hello@knetminer.com)
+* **Contact Form:** [knetminer.com/contact-us/](https://knetminer.com/contact-us/)
+* **Registered Office:** KNETMINER LIMITED, Rothamsted Research, West Common, Harpenden, Hertfordshire, United Kingdom, AL5 2JQ. (Company number: 15258794)
+
+---
+
+*This GitHub organization page provides a high-level overview of KnetMiner Limited. Our primary software products and services are commercial and mostly closed-source. Specific open-source contributions or community tools, if any, will be hosted in dedicated repositories within this organization.*
